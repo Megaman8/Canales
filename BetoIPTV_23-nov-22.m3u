@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,+++ PELICULAS ESTRENO HD +++
+#EXTINF:-1,+++ PELICULAS ESTRENO SD +++
 http://190.61.102.67:8000/play/a07g
 #EXTINF:0,A&E HD
 http://181.209.194.254:8000/play/a0gt/index.m3u8
