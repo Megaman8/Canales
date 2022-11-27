@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,MUNDIAL QATAR FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a009
 #EXTINF:0,+++ PELICULAS ESTRENO SD +++ 
 http://190.61.102.67:8000/play/a07g
 #EXTINF:0,A&E SD 
@@ -19,6 +22,9 @@ http://190.61.102.67:8000/play/a04s
 http://181.209.194.254:8000/play/a0gu/index.m3u8
 #EXTINF:0,AMC SD 
 http://190.61.102.67:8000/play/a04b
+#EXTINF:0, ANIMAL PLANET FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a034
 #EXTINF:0,Animal Planet HD 
 http://181.209.194.254:8000/play/a0gq/index.m3u8
 #EXTINF:0,AXN 
@@ -63,8 +69,14 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://190.61.102.67:8000/play/a00u
 #EXTINF:0,CANAL DE LAS ESTRELLAS 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682.ts
+#EXTINF:0, CANAL INFANTIL FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a020
 #EXTINF:0,CARACOL 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768.ts
+#EXTINF:0, CARTOONS FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a021
 #EXTINF:0,CARTOON NETWORK 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683.ts
 #EXTINF:0,CARTOON NETWORK FHD 
@@ -77,6 +89,15 @@ http://181.209.194.254:8000/play/a0l0/index.m3u8
 http://190.61.102.67:8000/play/a03u
 #EXTINF:0,CCN 
 http://181.209.194.254:8000/play/a03m/index.m3u8
+#EXTINF:0, CINE FAMILIAR FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a023
+#EXTINF:0, CINE HISPANO FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a024
+#EXTINF:0, CINE PREMIUM FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a025
 #EXTINF:0,Cine Latino 
 http://181.209.194.254:8000/play/a0ik/index.m3u8
 #EXTINF:0,CINE LATINO SD 
@@ -133,16 +154,25 @@ http://181.209.194.254:8000/play/a0hy/index.m3u8
 http://181.209.194.254:8000/play/a02r/index.m3u8
 #EXTINF:0,CONCERT SD 
 http://190.61.102.67:8000/play/a06t
+#EXTINF:0, COSMOS FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a026
 #EXTINF:0,DE PELICULA 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507.ts
 #EXTINF:0,DEPORTES LQ 
 http://190.61.102.67:8000/play/a01k
+#EXTINF:0, DHE FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a027
 #EXTINF:0,DHE FHD 
 http://190.61.102.67:8000/play/a04x
 #EXTINF:0,DHE HD 
 http://181.209.194.254:8000/play/a0gy/index.m3u8
 #EXTINF:0,DHE SD 
 http://190.61.102.67:8000/play/a00y
+#EXTINF:0, DISCOVERY CHANNEL FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a028
 #EXTINF:0,DISCOVERY 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511.ts
 #EXTINF:0,DISCOVERY CHANNEL FHD 
@@ -151,16 +181,27 @@ http://190.61.102.67:8000/play/a05a
 http://181.209.194.254:8000/play/a0kn/index.m3u8
 #EXTINF:0,DISCOVERY FAM SPA 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510.ts
+#EXTINF:0, H&H FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02l
+#EXTINF:0,DISCOVERY H&H HD 
+http://181.209.194.254:8000/play/a0hw/index.m3u8
 #EXTINF:0,DISCOVERY H&H FHD 
 http://190.61.102.67:8000/play/a062
 #EXTINF:0,DISCOVERY H&H SD 
 http://190.61.102.67:8000/play/a06o
+#EXTINF:0, DISCOVERY ID FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a029
 #EXTINF:0,DISCOVERY ID FHD 
 http://190.61.102.67:8000/play/a05e
 #EXTINF:0,Discovery ID HD 
 http://181.209.194.254:8000/play/a0ks/index.m3u8
 #EXTINF:0,DISCOVERY ID SD 
 http://190.61.102.67:8000/play/a06p
+#EXTINF:0, DISCOVERY KIDS FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a012
 #EXTINF:0,Discovery Kids 
 http://181.209.194.254:8000/play/a03l/index.m3u8
 #EXTINF:0,DISCOVERY KIDS FHD 
@@ -173,10 +214,16 @@ http://190.61.102.67:8000/play/a06j
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770.ts
 #EXTINF:0,DISCOVERY SCIENCE SD 
 http://190.61.102.67:8000/play/a00e
+#EXTINF:0, DISCOVERY THEATER FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02m
 #EXTINF:0,DISCOVERY THEATER FHD 
 http://190.61.102.67:8000/play/a061
 #EXTINF:0,DISCOVERY THEATHER HD 
 http://181.209.194.254:8000/play/a0hv/index.m3u8
+#EXTINF:0, DISCOVERY TURBO FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02a
 #EXTINF:0,Discovery Turbo 
 http://181.209.194.254:8000/play/a0ia/index.m3u8
 #EXTINF:0,DISCOVERY TURBO SD 
@@ -185,12 +232,18 @@ http://190.61.102.67:8000/play/a06n
 http://190.61.102.67:8000/play/a05b
 #EXTINF:0,Discovery World HD 
 http://181.209.194.254:8000/play/a0kp/index.m3u8
+#EXTINF:0, DISNEY FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02b
 #EXTINF:0,Disney 
 http://181.209.194.254:8000/play/a0i8/index.m3u8
 #EXTINF:0,DISNEY CHANNEL 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688.ts
 #EXTINF:0,DISNEY CHANNEL SD 
 http://190.61.102.67:8000/play/a06l
+#EXTINF:0, DISNEY JR FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02c
 #EXTINF:0,Disney JR 
 http://181.209.194.254:8000/play/a0g1/index.m3u8
 #EXTINF:0,DISNEY JR 
@@ -207,12 +260,21 @@ http://190.61.102.67:8000/play/a04p
 http://181.209.194.254:8000/play/a0gj/index.m3u8
 #EXTINF:0,ENLACE SD 
 http://190.61.102.67:8000/play/a04f
+#EXTINF:0, ESPN FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02d
 #EXTINF:0,ESPN+ 
 http://181.209.194.254:8000/play/a0gl/index.m3u8
+#EXTINF:0, ESPN 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02e
 #EXTINF:0,ESPN 2 HD 
 http://181.209.194.254:8000/play/a0ki/index.m3u8
 #EXTINF:0,ESPN 2 HD 
 MX http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694.ts
+#EXTINF:0, ESPN 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02f
 #EXTINF:0,ESPN 3 HD 
 http://181.209.194.254:8000/play/a0kh/index.m3u8
 #EXTINF:0,ESPN 3 MX 
@@ -239,14 +301,20 @@ http://190.61.102.67:8000/play/a025
 http://190.61.102.67:8000/play/a079
 #EXTINF:0,ESPN4 SD 
 http://190.61.102.67:8000/play/a06r
-#EXTINF:0,ESTRELLATV 
+#EXTINF:0,ESTRELLA TV 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697.ts
 #EXTINF:0,ESTRENOS SD 
 http://190.61.102.67:8000/play/a07g
+#EXTINF:0, EUROCHANNEL FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a01j
 #EXTINF:0,EURO Channel 
 http://181.209.194.254:8000/play/a00x/index.m3u8
 #EXTINF:0,EURO CHANNEL SD 
 http://190.61.102.67:8000/play/a020
+#EXTINF:0, EURONEWS FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a031
 #EXTINF:0,EUROPA EUROPA FHD  
 http://190.61.102.67:8000/play/a04v
 #EXTINF:0,Europa HD 
@@ -261,6 +329,12 @@ http://181.209.194.254:8000/play/a0gs/index.m3u8
 http://190.61.102.67:8000/play/a04q
 #EXTINF:0,FILMS & ARTS SD 
 http://190.61.102.67:8000/play/a00x
+#EXTINF:0, FMH KIDS FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a01z
+#EXTINF:0, FOOD NETWORK FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02j
 #EXTINF:0,FORMULA 1 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698.ts
 #EXTINF:0,FORO TV 
@@ -351,14 +425,15 @@ http://190.61.102.67:8000/play/a021
 http://181.209.194.254:8000/play/a0gk/index.m3u8
 #EXTINF:0,HISTORY FHD 
 http://190.61.102.67:8000/play/a04h
+#EXTINF:0, HITS FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a01y
 #EXTINF:0,HOLA TV FHD 
 http://190.61.102.67:8000/play/a063
 #EXTINF:0,HOLA TV SD 
 http://190.61.102.67:8000/play/a00f
 #EXTINF:0,HOLA! TV HD 
 http://181.209.194.254:8000/play/a0hx/index.m3u8
-#EXTINF:0,Home & Health HD 
-http://181.209.194.254:8000/play/a0hw/index.m3u8
 #EXTINF:0,HTV SD 
 http://190.61.102.67:8000/play/a02a
 #EXTINF:0,I SAT SD 
@@ -367,8 +442,14 @@ http://190.61.102.67:8000/play/a06v
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712.ts
 #EXTINF:0,INVESTIGATION DISCOVERY 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735.ts
+#EXTINF:0, ITV FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02n
 #EXTINF:0,KIDS SD 
 http://190.61.102.67:8000/play/a03x
+#EXTINF:0, KUMBIA FHD 
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02o
 #EXTINF:0,LA LIGA HD 
 http://190.61.102.67:8000/play/a07h
 #EXTINF:0,La voz de Maria 
@@ -383,16 +464,28 @@ http://190.61.102.67:8000/play/a027
 http://181.209.194.254:8000/play/a03x/index.m3u8
 #EXTINF:0,Latin America Sport 
 http://181.209.194.254:8000/play/a03j/index.m3u8
+#EXTINF:0, LATINA FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02p
 #EXTINF:0,LIFE TIME 
 http://181.209.194.254:8000/play/a0gb/index.m3u8
 #EXTINF:0,LIFETIME SD 
 http://190.61.102.67:8000/play/a045
 #EXTINF:0,LOS SIMPSONS 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713.ts
+#EXTINF:0, LOVE NATURE FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02q
 #EXTINF:0,MAS CHIC SD 
 http://190.61.102.67:8000/play/a00a
 #EXTINF:0,MORBIDO 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182.ts
+#EXTINF:0, MOVIE MOTION FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02r
+#EXTINF:0, MOVIES CLUB FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02s
 #EXTINF:0,MTV 
 http://181.209.194.254:8000/play/a0if/index.m3u8
 #EXTINF:0,MTV 00s 
@@ -443,6 +536,9 @@ http://181.209.194.254:8000/play/a0fz/index.m3u8
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717.ts
 #EXTINF:0,NICK JR SD 
 http://190.61.102.67:8000/play/a03t
+#EXTINF:0, NICK FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02t
 #EXTINF:0,NICKELODEON 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718.ts
 #EXTINF:0,NICKELODEON FHD 
@@ -455,8 +551,14 @@ http://190.61.102.67:8000/play/a06k
 http://190.61.102.67:8000/play/a04l
 #EXTINF:0,NUEVE 9 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719.ts
+#EXTINF:0, OLD CITY FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02u
 #EXTINF:0,ONCE TV 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/720.ts
+#EXTINF:0, PARAMOUNT FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a033
 #EXTINF:0,Paramount HD 
 http://181.209.194.254:8000/play/a0kl/index.m3u8
 #EXTINF:0,PARAMOUNT SD 
@@ -465,6 +567,12 @@ http://190.61.102.67:8000/play/a00z
 http://190.61.102.67:8000/play/a05c
 #EXTINF:0,Pasiones HD 
 http://181.209.194.254:8000/play/a0kq/index.m3u8
+#EXTINF:0, RAYMI FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02w
+#EXTINF:0, RETRO FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02x
 #EXTINF:0,RCN Novelas 
 http://181.209.194.254:8000/play/a0jn/index.m3u8
 #EXTINF:0,RCN NOVELAS SD 
@@ -483,6 +591,9 @@ http://181.209.194.254:8000/play/a0k0/index.m3u8
 http://190.61.102.67:8000/play/a02g
 #EXTINF:0,SEMILLITAS 
 http://181.209.194.254:8000/play/a0g3/index.m3u8
+#EXTINF:0, SERIES CLUB FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02y
 #EXTINF:0,SIN LIMITES SD 
 http://190.61.102.67:8000/play/a028
 #EXTINF:0,SONY HD 
@@ -513,6 +624,9 @@ http://190.61.102.67:8000/play/a04m
 http://181.209.194.254:8000/play/a0go/index.m3u8
 #EXTINF:0,STUDIO UNIVERSAL SD 
 http://190.61.102.67:8000/play/a06z
+#EXTINF:0, SUN CHANNEL FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a02z
 #EXTINF:0,SUN SD 
 http://190.61.102.67:8000/play/a023
 #EXTINF:0,TBS 
@@ -553,6 +667,9 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
 #EXTINF:0,TELEMUNDO NEW YORK 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658.ts
+#EXTINF:0, TELENOVELAS FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a00e
 #EXTINF:0,TELENOVELAS 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/723.ts
 #EXTINF:0,TELENOVELAS SD 
@@ -585,6 +702,9 @@ http://190.61.102.67:8000/play/a07f
 http://181.209.194.254:8000/play/a03k/index.m3u8
 #EXTINF:0,TOONCAST 
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725.ts
+#EXTINF:0, TRU TV FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a030
 #EXTINF:0,TRU TV SD 
 http://190.61.102.67:8000/play/a03y
 #EXTINF:0,TRUTV 
@@ -647,5 +767,11 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668.ts
 #EXTINF:0,WARNER HD 
 http://181.209.194.254:8000/play/a0ho/index.m3u8
+#EXTINF:0, Z ROCK & POP FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a01u
+#EXTINF:0, ZOOMOO FHD
+#EXTVLCOPT:network-caching=1000
+http://181.176.148.142:8000/play/a032
 #EXTINF:0,ZOO MOO SD 
 http://190.61.102.67:8000/play/a009
