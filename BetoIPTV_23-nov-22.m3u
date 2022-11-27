@@ -1,652 +1,651 @@
 #EXTM3U
-#EXTINF:-1,+++ PELICULAS ESTRENO SD +++
+#EXTINF:0,+++ PELICULAS ESTRENO SD +++ 
 http://190.61.102.67:8000/play/a07g
-#EXTINF:0,A&E HD
+#EXTINF:0,A&E SD 
 http://181.209.194.254:8000/play/a0gt/index.m3u8
-#EXTINF:-1,A3SERIES
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/675.ts
-#EXTINF:-1,ADN 40
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/676.ts
-#EXTINF:-1,ADRENALINA SPORTS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726.ts
-#EXTINF:-1,AFIZZIONADOS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729.ts
-#EXTINF:0,AMC HD
-http://181.209.194.254:8000/play/a0gu/index.m3u8
-#EXTINF:0,Animal Planet HD
-http://181.209.194.254:8000/play/a0gq/index.m3u8
-#EXTINF:0,AXN HD
-http://181.209.194.254:8000/play/a0iy/index.m3u8
-#EXTINF:-1,AXN
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765.ts
-#EXTINF:-1,AZTECA 7
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/677.ts
-#EXTINF:-1,AZTECA UNO
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678.ts
-#EXTINF:0,AZ click HD
-http://181.209.194.254:8000/play/a0gz/index.m3u8
-#EXTINF:0,Azcorazon
-http://181.209.194.254:8000/play/a0g6/index.m3u8
-#EXTINF:0,Azmundo
-http://181.209.194.254:8000/play/a0h8/index.m3u8
-#EXTINF:-1,BEIN ES HD
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487.ts
-#EXTINF:0,Baby First
-http://181.209.194.254:8000/play/a03i/index.m3u8
-#EXTINF:0,Boomerang
-http://181.209.194.254:8000/play/a0g0/index.m3u8
-#EXTINF:-1,BOOMERANG
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680.ts
-#EXTINF:-1,CANAL 5
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681.ts
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682.ts
-#EXTINF:-1,CARACOL
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768.ts
-#EXTINF:-1,CARTOON NETWORK
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683.ts
-#EXTINF:0,CARTOON NT HD
-http://181.209.194.254:8000/play/a0l0/index.m3u8
-#EXTINF:0,CCN
-http://181.209.194.254:8000/play/a03m/index.m3u8
-#EXTINF:0,CINECANAL HD
-http://181.209.194.254:8000/play/a0hq/index.m3u8
-#EXTINF:0,Cine Latino
-http://181.209.194.254:8000/play/a0ik/index.m3u8
-#EXTINF:0,CineMax
-http://181.209.194.254:8000/play/a0il/index.m3u8
-#EXTINF:-1,CINEMAX HD
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769.ts
-#EXTINF:0,Claro
-http://181.209.194.254:8000/play/a0fv/index.m3u8
-#EXTINF:0,Claro Cinema
-http://181.209.194.254:8000/play/a0hl/index.m3u8
-#EXTINF:0,Claro Musica
-http://181.209.194.254:8000/play/a0jt/index.m3u8
-#EXTINF:0,Claro Sports  HD
-http://181.209.194.254:8000/play/a0kz/index.m3u8
-#EXTINF:0,Claro Sports 2 SD
-http://181.209.194.254:8000/play/a03w/index.m3u8
-#EXTINF:0,CNN Español
-http://181.209.194.254:8000/play/a0gi/index.m3u8
-#EXTINF:-1,CNN ESPAÑOL
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684.ts
-#EXTINF:0,Comedy Central HD
-http://181.209.194.254:8000/play/a0hy/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/685.ts
-#EXTINF:0,Concert Channel
-http://181.209.194.254:8000/play/a02r/index.m3u8
-#EXTINF:-1,DE PELICULA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507.ts
-#EXTINF:0,DHE HD
-http://181.209.194.254:8000/play/a0gy/index.m3u8
-#EXTINF:0,Discovery Kids
-http://181.209.194.254:8000/play/a03l/index.m3u8
-#EXTINF:-1,DISCOVERY KIDS SD
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687.ts
-#EXTINF:0,DISCOVERY THEATHER HD
-http://181.209.194.254:8000/play/a0hv/index.m3u8
-#EXTINF:0,Discovery Channel HD
-http://181.209.194.254:8000/play/a0kn/index.m3u8
-#EXTINF:0,Discovery ID HD
-http://181.209.194.254:8000/play/a0ks/index.m3u8
-#EXTINF:0,Discovery Turbo
-http://181.209.194.254:8000/play/a0ia/index.m3u8
-#EXTINF:0,Discovery World HD
-http://181.209.194.254:8000/play/a0kp/index.m3u8
-#EXTINF:-1,DISCOVERY FAM SPA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510.ts
-#EXTINF:-1,DISCOVERY
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688.ts
-#EXTINF:0,Disney
-http://181.209.194.254:8000/play/a0i8/index.m3u8
-#EXTINF:0,Disney JR
-http://181.209.194.254:8000/play/a0g1/index.m3u8
-#EXTINF:-1,DISNEY JR
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689.ts
-#EXTINF:0,E! Entertairment HD
-http://181.209.194.254:8000/play/a0gr/index.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692.ts
-#EXTINF:0,ENLACE
-http://181.209.194.254:8000/play/a0gj/index.m3u8
-#EXTINF:-1,ESPN 2 HD MX
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694.ts
-#EXTINF:-1,ESPN 3 MX
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695.ts
-#EXTINF:-1,ESPN MX HD
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696.ts
-#EXTINF:0,ESPN  +
-http://181.209.194.254:8000/play/a0gl/index.m3u8
-#EXTINF:0,ESPN 2 HD
-http://181.209.194.254:8000/play/a0ki/index.m3u8
-#EXTINF:0,ESPN 3 HD
-http://181.209.194.254:8000/play/a0kh/index.m3u8
-#EXTINF:0,ESPN 4 HD
-http://181.209.194.254:8000/play/a0ix/index.m3u8
-#EXTINF:0,ESPN HD
-http://181.209.194.254:8000/play/a0kg/index.m3u8
-#EXTINF:-1,ESTRELLATV
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697.ts
-#EXTINF:-1,ESPN DEPORTES AR
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124.ts
-#EXTINF:0,EURO Channel
-http://181.209.194.254:8000/play/a00x/index.m3u8
-#EXTINF:0,Europa HD
-http://181.209.194.254:8000/play/a00u/index.m3u8
-#EXTINF:0,Exa TV
-http://181.209.194.254:8000/play/a0hk/index.m3u8
-#EXTINF:0,Film & arts HD
-http://181.209.194.254:8000/play/a0gs/index.m3u8
-#EXTINF:-1,FORMULA 1
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698.ts
-#EXTINF:-1,FORO TV
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/699.ts
-#EXTINF:-1,FOX SPORTS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706.ts
-#EXTINF:-1,FOX SPORTS 2
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707.ts
-#EXTINF:0,FOX SPORTS 2 HD
-http://181.209.194.254:8000/play/a0ht/index.m3u8
-#EXTINF:0,FOX SPORTS 3 HD
-http://181.209.194.254:8000/play/a0kj/index.m3u8
-#EXTINF:0,Golf Channel HD
-http://181.209.194.254:8000/play/a0h1/index.m3u8
-#EXTINF:-1,FX
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708.ts
-#EXTINF:0,FX HD
-http://181.209.194.254:8000/play/a0gw/index.m3u8
-#EXTINF:0,FX Movies HD
-http://181.209.194.254:8000/play/a0gx/index.m3u8
-#EXTINF:-1,GALAVISION
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556.ts
-#EXTINF:-1,GLITZ
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123.ts
-#EXTINF:-1,GOLTV
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559.ts
-#EXTINF:0,Golden
-http://181.209.194.254:8000/play/a0jv/index.m3u8
-#EXTINF:-1,GOLDEN PREMIERE
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709.ts
-#EXTINF:-1,GOURMET
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186.ts
-#EXTINF:0,HBO Family HD
-http://181.209.194.254:8000/play/a0l5/index.m3u8
-#EXTINF:0,HBO HD
-http://181.209.194.254:8000/play/a0l2/index.m3u8
-#EXTINF:0,HBO Plus HD
-http://181.209.194.254:8000/play/a0l4/index.m3u8
-#EXTINF:0,HBO XTREME HD
-http://181.209.194.254:8000/play/a0l6/index.m3u8
-#EXTINF:0,HBO2 HD
-http://181.209.194.254:8000/play/a00c/index.m3u8
-#EXTINF:0,History 2
-http://181.209.194.254:8000/play/a0jp/index.m3u8
-#EXTINF:0,History Channel HD
-http://181.209.194.254:8000/play/a0gk/index.m3u8
-#EXTINF:-1,HISTORY
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711.ts
-#EXTINF:0,HOLA! TV HD
-http://181.209.194.254:8000/play/a0hx/index.m3u8
-#EXTINF:0,Home & Health HD
-http://181.209.194.254:8000/play/a0hw/index.m3u8
-#EXTINF:-1,IMAGEN NOTICIAS SD
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735.ts
-#EXTINF:0,La voz de Maria
-http://181.209.194.254:8000/play/a0id/index.m3u8
-#EXTINF:0,Latin America Sport
-http://181.209.194.254:8000/play/a03x/index.m3u8
-#EXTINF:0,Latin America Sport
-http://181.209.194.254:8000/play/a03j/index.m3u8
-#EXTINF:0,LIFE TIME
-http://181.209.194.254:8000/play/a0gb/index.m3u8
-#EXTINF:-1,MORBIDO
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182.ts
-#EXTINF:0,MTV
-http://181.209.194.254:8000/play/a0if/index.m3u8
-#EXTINF:0,MTV 00s HD
-http://181.209.194.254:8000/play/a0i0/index.m3u8
-#EXTINF:0,MTV 80s
-http://181.209.194.254:8000/play/a0ge/index.m3u8
-#EXTINF:0,MTV HD
-http://181.209.194.254:8000/play/a0gm/index.m3u8
-#EXTINF:0,MTV Hits
-http://181.209.194.254:8000/play/a0gd/index.m3u8
-#EXTINF:0,MTV SIM HD
-http://181.209.194.254:8000/play/a0hz/index.m3u8
-#EXTINF:-1,MTV LIVE
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737.ts
-#EXTINF:0,Multipremier
-http://181.209.194.254:8000/play/a0ij/index.m3u8
-#EXTINF:0,Nat Geo Kids
-http://181.209.194.254:8000/play/a0jl/index.m3u8
-#EXTINF:0,Nat Geo HD
-http://181.209.194.254:8000/play/a0kk/index.m3u8
-#EXTINF:-1,NATGEO MUNDO HD
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598.ts
-#EXTINF:-1,NATGEO MX
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716.ts
-#EXTINF:-1,NICK JR
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717.ts
-#EXTINF:-1,NICKELODEON
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718.ts
-#EXTINF:0,Nick 2 HD
-http://181.209.194.254:8000/play/a03f/index.m3u8
-#EXTINF:0,Nick Jr
-http://181.209.194.254:8000/play/a0fz/index.m3u8
-#EXTINF:0,Nickelodeon HD
-http://181.209.194.254:8000/play/a0hs/index.m3u8
-#EXTINF:-1,NUEVE 9
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719.ts
-#EXTINF:-1,ONCE TV
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/720.ts
-#EXTINF:0,Paramount HD
-http://181.209.194.254:8000/play/a0kl/index.m3u8
-#EXTINF:0,Pasiones HD
-http://181.209.194.254:8000/play/a0kq/index.m3u8
-#EXTINF:0,RCN Novelas
-http://181.209.194.254:8000/play/a0jn/index.m3u8
-#EXTINF:0,RHEMA TV
-http://181.209.194.254:8000/play/a03t/index.m3u8
-#EXTINF:0,RHEMA TV
-http://181.209.194.254:8000/play/a0iw/index.m3u8
-#EXTINF:0,Sembrador
-http://181.209.194.254:8000/play/a0k0/index.m3u8
-#EXTINF:0,SEMILLITAS
-http://181.209.194.254:8000/play/a0g3/index.m3u8
-#EXTINF:0,SONY HD
-http://181.209.194.254:8000/play/a0hp/index.m3u8
-#EXTINF:0,SONY MOVIES HD
-http://181.209.194.254:8000/play/a03s/index.m3u8
-#EXTINF:0,SPACE HD
-http://181.209.194.254:8000/play/a0iz/index.m3u8
-#EXTINF:0,STAR CHANNEL HD
-http://181.209.194.254:8000/play/a0hn/index.m3u8
-#EXTINF:0,STAR LIFE
-http://181.209.194.254:8000/play/a0g4/index.m3u8
-#EXTINF:0,Star TVE HD
-http://181.209.194.254:8000/play/a0h0/index.m3u8
-#EXTINF:0,Studio Universal HD
-http://181.209.194.254:8000/play/a0go/index.m3u8
-#EXTINF:-1,LOS SIMPSONS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713.ts
-#EXTINF:-1,TELENOVELAS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/723.ts
-#EXTINF:-1,TBS
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758.ts
-#EXTINF:0,TBS
-http://181.209.194.254:8000/play/a0g9/index.m3u8
-#EXTINF:0,TCM
-http://181.209.194.254:8000/play/a0jw/index.m3u8
-#EXTINF:-1,TELEHIT
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/653.ts
-#EXTINF:-1,TELEHIT MUSICA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/641.ts
-#EXTINF:-1,TELEMUNDO 44
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654.ts
-#EXTINF:-1,TELEMUNDO 48
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655.ts
-#EXTINF:-1,TELEMUNDO LA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656.ts
-#EXTINF:-1,TELEMUNDO MIAMI
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
-#EXTINF:-1,TELEMUNDO NEW YORK
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658.ts
-#EXTINF:0,Telemundo HD
-http://181.209.194.254:8000/play/a0gv/index.m3u8
-#EXTINF:0,Tigo Sports HD
-http://181.209.194.254:8000/play/a02v/index.m3u8
-#EXTINF:-1,TIIN
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759.ts
-#EXTINF:0,TLC
-http://181.209.194.254:8000/play/a0hh/index.m3u8
-#EXTINF:-1,TLC
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724.ts
-#EXTINF:0,TNT HD
-http://181.209.194.254:8000/play/a0hu/index.m3u8
-#EXTINF:0,TNT Series HD
-http://181.209.194.254:8000/play/a0km/index.m3u8
-#EXTINF:-1,TOONCAST
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725.ts
-#EXTINF:0,Tooncast
-http://181.209.194.254:8000/play/a03k/index.m3u8
-#EXTINF:-1,TRUTV
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760.ts
-#EXTINF:-1,TUDN
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722.ts
-#EXTINF:0,TUDN test
-http://181.209.194.254:8000/play/a041/index.m3u8
-#EXTINF:-1,TVC DEPORTES
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761.ts
-#EXTINF:-1,UNICABLE
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727.ts
-#EXTINF:-1,UNIMAS HD
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663.ts
-#EXTINF:0,Universal
-http://181.209.194.254:8000/play/a0ih/index.m3u8
-#EXTINF:-1,UNIVERSAL REALITY
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700.ts
-#EXTINF:-1,UNIVERSAL CRIME
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701.ts
-#EXTINF:-1,UNIVERSAL CINEMA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703.ts
-#EXTINF:0,UNIVERSAL CINEMA HD
-http://181.209.194.254:8000/play/a0kt/index.m3u8
-#EXTINF:0,UNIVERSAL COMEDY HD
-http://181.209.194.254:8000/play/a0i5/index.m3u8
-#EXTINF:0,UNIVERSAL CRIME HD
-http://181.209.194.254:8000/play/a0i4/index.m3u8
-#EXTINF:0,UNIVERSAL PREMIERE HD
-http://181.209.194.254:8000/play/a0i1/index.m3u8
-#EXTINF:0,UNIVERSAL PREMIERE O HD
-http://181.209.194.254:8000/play/a0i2/index.m3u8
-#EXTINF:0,UNIVERSAL REALITY HD
-http://181.209.194.254:8000/play/a0i3/index.m3u8
-#EXTINF:-1,UNIVERSO
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665.ts
-#EXTINF:0,Univision HD
-http://181.209.194.254:8000/play/a0kr/index.m3u8
-#EXTINF:-1,UNIVISION SPORTS UDN
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666.ts
-#EXTINF:-1,UNIVISION USA HD
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668.ts
-#EXTINF:0,WARNER HD
-http://181.209.194.254:8000/play/a0ho/index.m3u8
-#EXTM3U
-#EXTINF:-1,A&E SD
+#EXTINF:0,A&E SD 
 http://190.61.102.67:8000/play/a04r
-#EXTINF:-1,AMC SD
-http://190.61.102.67:8000/play/a04b
-#EXTINF:-1,AMC FHD
+#EXTINF:0,A3SERIES 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/675.ts
+#EXTINF:0,ADN 40 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/676.ts
+#EXTINF:0,ADRENALINA SPORTS 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726.ts
+#EXTINF:0,AFIZZIONADOS 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729.ts
+#EXTINF:0,AMC FHD 
 http://190.61.102.67:8000/play/a04s
-#EXTINF:-1,AXN SD
-http://190.61.102.67:8000/play/a049
-#EXTINF:-1,AXN FHD
+#EXTINF:0,AMC HD 
+http://181.209.194.254:8000/play/a0gu/index.m3u8
+#EXTINF:0,AMC SD 
+http://190.61.102.67:8000/play/a04b
+#EXTINF:0,Animal Planet HD 
+http://181.209.194.254:8000/play/a0gq/index.m3u8
+#EXTINF:0,AXN 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765.ts
+#EXTINF:0,AXN FHD 
 http://190.61.102.67:8000/play/a07a
-#EXTINF:-1,CLIC FHD
-http://190.61.102.67:8000/play/a04y
-#EXTINF:-1,C3 SD
-http://190.61.102.67:8000/play/can3
-#EXTINF:-1,CARTOON NETWORK FHD
-http://190.61.102.67:8000/play/a014
-#EXTINF:-1,DEPORTES LQ
-http://190.61.102.67:8000/play/a01k
-#EXTINF:-1,RTVD LQ
-http://190.61.102.67:8000/play/a06d
-#EXTINF:-1,CNN SD
-http://190.61.102.67:8000/play/a00n
-#EXTINF:-1,CNN ESP SD
-http://190.61.102.67:8000/play/a04c
-#EXTINF:-1,ESTRENOS SD
-http://190.61.102.67:8000/play/a07g
-#EXTINF:-1,C13 SD
+#EXTINF:0,AXN HD 
+http://181.209.194.254:8000/play/a0iy/index.m3u8
+#EXTINF:0,AXN SD 
+http://190.61.102.67:8000/play/a049
+#EXTINF:0,AZ click HD 
+http://181.209.194.254:8000/play/a0gz/index.m3u8
+#EXTINF:0,Azcorazon 
+http://181.209.194.254:8000/play/a0g6/index.m3u8
+#EXTINF:0,Azmundo 
+http://181.209.194.254:8000/play/a0h8/index.m3u8
+#EXTINF:0,AZTECA 7 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/677.ts
+#EXTINF:0,AZTECA UNO 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678.ts
+#EXTINF:0,Baby First 
+http://181.209.194.254:8000/play/a03i/index.m3u8
+#EXTINF:0,BEIN ES HD 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487.ts
+#EXTINF:0,Boomerang 
+http://181.209.194.254:8000/play/a0g0/index.m3u8
+#EXTINF:0,BOOMERANG 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680.ts
+#EXTINF:0,C13 SD 
 http://190.61.102.67:8000/play/a01c
-#EXTINF:-1,C19 SD
+#EXTINF:0,C19 SD 
 http://190.61.102.67:8000/play/a01w
-#EXTINF:-1,C7 SD
-http://190.61.102.67:8000/play/a07j
-#EXTINF:-1,CLARO SD
-http://190.61.102.67:8000/play/a03k
-#EXTINF:-1,CLARO FHD
-http://190.61.102.67:8000/play/a013
-#EXTINF:-1,CARTOON NETWORK SD
-http://190.61.102.67:8000/play/a03s
-#EXTINF:-1,CARTOONITO SD
-http://190.61.102.67:8000/play/a03u
-#EXTINF:-1,CINE LATINO SD
-http://190.61.102.67:8000/play/a06x
-#EXTINF:-1,CINECNAL SD
-http://190.61.102.67:8000/play/a070
-#EXTINF:-1,CINEMAX SD
-http://190.61.102.67:8000/play/a06y
-#EXTINF:-1,SIN LIMITES SD
-http://190.61.102.67:8000/play/a028
-#EXTINF:-1,CLARO SPORTS FHD
-http://190.61.102.67:8000/play/a012
-#EXTINF:-1,CLARO SPORTS SD
-http://190.61.102.67:8000/play/a024
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://190.61.102.67:8000/play/a064
-#EXTINF:-1,CONCERT SD
-http://190.61.102.67:8000/play/a06t
-#EXTINF:-1,DHE SD
-http://190.61.102.67:8000/play/a00y
-#EXTINF:-1,DHE FHD
-http://190.61.102.67:8000/play/a04x
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://190.61.102.67:8000/play/a061
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://190.61.102.67:8000/play/a05a
-#EXTINF:-1,DISCOVERY H&H SD
-http://190.61.102.67:8000/play/a06o
-#EXTINF:-1,DISCOVERY ID FHD
-http://190.61.102.67:8000/play/a05e
-#EXTINF:-1,DISCOVERY KIDS SD
-http://190.61.102.67:8000/play/a06j
-#EXTINF:-1,DISCOVERY KIDS FHD
-http://190.61.102.67:8000/play/a00r
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://190.61.102.67:8000/play/a00e
-#EXTINF:-1,DISCOVERY TURBO SD
-http://190.61.102.67:8000/play/a06n
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://190.61.102.67:8000/play/a05b
-#EXTINF:-1,DISNEY CHANNEL SD
-http://190.61.102.67:8000/play/a06l
-#EXTINF:-1,DISNEY JR SD
-http://190.61.102.67:8000/play/a03v
-#EXTINF:-1,E! FHD
-http://190.61.102.67:8000/play/a04p
-#EXTINF:-1,ESPN EXTRA HD
-http://190.61.102.67:8000/play/a04i
-#EXTINF:-1,ESPN2 HD
-http://190.61.102.67:8000/play/a055
-#EXTINF:-1,ESPN3 SD
-http://190.61.102.67:8000/play/a025
-#EXTINF:-1,ESPN3 HD
-http://190.61.102.67:8000/play/a054
-#EXTINF:-1,ESPN4 SD
-http://190.61.102.67:8000/play/a06r
-#EXTINF:-1,ESPN4 FHD
-http://190.61.102.67:8000/play/a079
-#EXTINF:-1,ESPN HD
-http://190.61.102.67:8000/play/a053
-#EXTINF:-1,EURO CHANNEL SD
-http://190.61.102.67:8000/play/a020
-#EXTINF:-1,EWTN SD
-http://190.61.102.67:8000/play/a04g
-#EXTINF:-1,GOURMET SD
-http://190.61.102.67:8000/play/a022
-#EXTINF:-1,EUROPA EUROPA FHD 
-http://190.61.102.67:8000/play/a04v
-#EXTINF:-1,FOX SPORTS 2 FHD
-http://190.61.102.67:8000/play/a05z
-#EXTINF:-1,FOS SPORTS 3 FHD
-http://190.61.102.67:8000/play/a056
-#EXTINF:-1,FOX SPORTS 2 SD
-http://190.61.102.67:8000/play/a026
-#EXTINF:-1,FUTV SD
-http://190.61.102.67:8000/play/a06e
-#EXTINF:-1,FUTV FHD
-http://190.61.102.67:8000/play/a052
-#EXTINF:-1,FX SD
-http://190.61.102.67:8000/play/a01y
-#EXTINF:-1,FX FHD
-http://190.61.102.67:8000/play/a04u
-#EXTINF:-1,FILMS & ARTS SD
-http://190.61.102.67:8000/play/a00x
-#EXTINF:-1,FILMS & ARTS FHD
-http://190.61.102.67:8000/play/a04q
-#EXTINF:-1,FOX SPORTS 3 SD
-http://190.61.102.67:8000/play/a046
-#EXTINF:-1,FRANCE24 SD
-http://190.61.102.67:8000/play/a04e
-#EXTINF:-1,GOLDEN SD
-http://190.61.102.67:8000/play/a02b
-#EXTINF:-1,GOLF SD
-http://190.61.102.67:8000/play/a00j
-#EXTINF:-1,GOLF FHD
-http://190.61.102.67:8000/play/a050
-#EXTINF:-1,HISTORY 2 SD
-http://190.61.102.67:8000/play/a021
-#EXTINF:-1,HBO FAMILY FHD
-http://190.61.102.67:8000/play/a018
-#EXTINF:-1,HBO FHD
-http://190.61.102.67:8000/play/a015
-#EXTINF:-1,HBO+ FHD
-http://190.61.102.67:8000/play/a017
-#EXTINF:-1,HBO XTREME FHD
-http://190.61.102.67:8000/play/a019
-#EXTINF:-1,HBO 2 FHD
-http://190.61.102.67:8000/play/a016
-#EXTINF:-1,HOLA TV FHD
-http://190.61.102.67:8000/play/a063
-#EXTINF:-1,HTV SD
-http://190.61.102.67:8000/play/a02a
-#EXTINF:-1,HISTORY FHD
-http://190.61.102.67:8000/play/a04h
-#EXTINF:-1,HOLA TV SD
-http://190.61.102.67:8000/play/a00f
-#EXTINF:-1,DISCOVERY H&H FHD
-http://190.61.102.67:8000/play/a062
-#EXTINF:-1,HGTV SD
-http://190.61.102.67:8000/play/a00d
-#EXTINF:-1,DISCOVERY ID SD
-http://190.61.102.67:8000/play/a06p
-#EXTINF:-1,I SAT SD
-http://190.61.102.67:8000/play/a06v
-#EXTINF:-1,LAS ESTRELLAS HD
-http://190.61.102.67:8000/play/las3
-#EXTINF:-1,LIFETIME SD
-http://190.61.102.67:8000/play/a045
-#EXTINF:-1,LA LIGA HD
-http://190.61.102.67:8000/play/a07h
-#EXTINF:-1,LA VOZ DE MARIA SD
-http://190.61.102.67:8000/play/a06q
-#EXTINF:-1,LAS SD
-http://190.61.102.67:8000/play/a027
-#EXTINF:-1,MTV SD
-http://190.61.102.67:8000/play/a06s
-#EXTINF:-1,CLARO SD
-http://190.61.102.67:8000/play/a029
-#EXTINF:-1,MTV 00s FHD
-http://190.61.102.67:8000/play/a066
-#EXTINF:-1,MTV 80s SD
-http://190.61.102.67:8000/play/a048
-#EXTINF:-1,MTV FHD
-http://190.61.102.67:8000/play/a04j
-#EXTINF:-1,MTV HITS SD
-http://190.61.102.67:8000/play/a047
-#EXTINF:-1,MTV LIVE FHD
-http://190.61.102.67:8000/play/a065
-#EXTINF:-1,MAS CHIC SD
-http://190.61.102.67:8000/play/a00a
-#EXTINF:-1,CANAL 8 SD
-http://190.61.102.67:8000/play/a00u
-#EXTINF:-1,MULTI PREMIERE SD
-http://190.61.102.67:8000/play/a06w
-#EXTINF:-1,NAT GEO FHD
-http://190.61.102.67:8000/play/a057
-#EXTINF:-1,NAT GEO SD
-http://190.61.102.67:8000/play/a044
-#EXTINF:-1,C51 SD
+#EXTINF:0,C3 SD 
+http://190.61.102.67:8000/play/can3
+#EXTINF:0,C51 SD 
 http://190.61.102.67:8000/play/a03w
-#EXTINF:-1,NICK JR SD
-http://190.61.102.67:8000/play/a03t
-#EXTINF:-1,NICKELODEON FHD
-http://190.61.102.67:8000/play/a05y
-#EXTINF:-1,NICKELODEON SD
-http://190.61.102.67:8000/play/a06k
-#EXTINF:-1,PARAMOUNT SD
-http://190.61.102.67:8000/play/a00z
-#EXTINF:-1,PASIONES FHD
-http://190.61.102.67:8000/play/a05c
-#EXTINF:-1,RCN NOVELAS SD
-http://190.61.102.67:8000/play/a01z
-#EXTINF:-1,RHEMA TV SD
-http://190.61.102.67:8000/play/a078
-#EXTINF:-1,KIDS SD
-http://190.61.102.67:8000/play/a03x
-#EXTINF:-1,SPACE SD
-http://190.61.102.67:8000/play/a041
-#EXTINF:-1,SPACE FHD
-http://190.61.102.67:8000/play/a07b
-#EXTINF:-1,STAR CHANNEL SD
-http://190.61.102.67:8000/play/a06m
-#EXTINF:-1,SEMBRADOR SD
-http://190.61.102.67:8000/play/a02g
-#EXTINF:-1,SONY MOVIES FHD
-http://190.61.102.67:8000/play/a04w
-#EXTINF:-1,STAR TVE FHD
-http://190.61.102.67:8000/play/a04z
-#EXTINF:-1,STUDIO UNIVERSAL SD
-http://190.61.102.67:8000/play/a06z
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-http://190.61.102.67:8000/play/a04m
-#EXTINF:-1,SUN SD
-http://190.61.102.67:8000/play/a023
-#EXTINF:-1,ENLACE SD
-http://190.61.102.67:8000/play/a04f
-#EXTINF:-1,TBS SD
-http://190.61.102.67:8000/play/a043
-#EXTINF:-1,TCM SD
-http://190.61.102.67:8000/play/a02c
-#EXTINF:-1,TD+2 FHD
-http://190.61.102.67:8000/play/a00q
-#EXTINF:-1,TD+ FHD
-http://190.61.102.67:8000/play/a00p
-#EXTINF:-1,TODO NOTICIAS SD
-http://190.61.102.67:8000/play/a07f
-#EXTINF:-1,TNT SD
-http://190.61.102.67:8000/play/a04a
-#EXTINF:-1,TNT FHD
-http://190.61.102.67:8000/play/a060
-#EXTINF:-1,TNT SERIES SD
-http://190.61.102.67:8000/play/a042
-#EXTINF:-1,TNT SERIES FHD
-http://190.61.102.67:8000/play/a059
-#EXTINF:-1,TUDN HD
-http://190.61.102.67:8000/play/a07e
-#EXTINF:-1,TVN SD
-http://190.61.102.67:8000/play/a00c
-#EXTINF:-1,NICKELODEON TEEN FHD
-http://190.61.102.67:8000/play/a04l
-#EXTINF:-1,TELEMUNDO INTERNACIONAL SD
-http://190.61.102.67:8000/play/a03z
-#EXTINF:-1,TELEMUNDO INTERNACIONAL FHD
-http://190.61.102.67:8000/play/a04t
-#EXTINF:-1,TELE SISTEMA SD
-http://190.61.102.67:8000/play/a03o
-#EXTINF:-1,TIGO SPORTS FHD
-http://190.61.102.67:8000/play/a05x
-#EXTINF:-1,TELENOVELAS SD
-http://190.61.102.67:8000/play/a07k
-#EXTINF:-1,TRU TV SD
-http://190.61.102.67:8000/play/a03y
-#EXTINF:-1,UNIVERSAL CINEMA FHD
-http://190.61.102.67:8000/play/a05f
-#EXTINF:-1,UNIVERSAL COMEDY FHD
-http://190.61.102.67:8000/play/a06b
-#EXTINF:-1,UNIVERSAL CRIME FHD
-http://190.61.102.67:8000/play/a06a
-#EXTINF:-1,UNIVERSAL PREMIERE FHD
-http://190.61.102.67:8000/play/a067
-#EXTINF:-1,UNIVERSAL PREMIERE FHD
-http://190.61.102.67:8000/play/a068
-#EXTINF:-1,UNIVERSAL REALITY FHD
-http://190.61.102.67:8000/play/a069
-#EXTINF:-1,CLARO SD
+#EXTINF:0,C7 SD 
+http://190.61.102.67:8000/play/a07j
+#EXTINF:0,CANAL 5 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681.ts
+#EXTINF:0,CANAL 8 SD 
+http://190.61.102.67:8000/play/a00u
+#EXTINF:0,CANAL DE LAS ESTRELLAS 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682.ts
+#EXTINF:0,CARACOL 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768.ts
+#EXTINF:0,CARTOON NETWORK 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683.ts
+#EXTINF:0,CARTOON NETWORK FHD 
+http://190.61.102.67:8000/play/a014
+#EXTINF:0,CARTOON NETWORK SD 
+http://190.61.102.67:8000/play/a03s
+#EXTINF:0,CARTOON NT HD 
+http://181.209.194.254:8000/play/a0l0/index.m3u8
+#EXTINF:0,CARTOONITO SD 
+http://190.61.102.67:8000/play/a03u
+#EXTINF:0,CCN 
+http://181.209.194.254:8000/play/a03m/index.m3u8
+#EXTINF:0,Cine Latino 
+http://181.209.194.254:8000/play/a0ik/index.m3u8
+#EXTINF:0,CINE LATINO SD 
+http://190.61.102.67:8000/play/a06x
+#EXTINF:0,CINECANAL HD 
+http://181.209.194.254:8000/play/a0hq/index.m3u8
+#EXTINF:0,CINECNAL SD 
+http://190.61.102.67:8000/play/a070
+#EXTINF:0,CineMax 
+http://181.209.194.254:8000/play/a0il/index.m3u8
+#EXTINF:0,CINEMAX HD 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769.ts
+#EXTINF:0,CINEMAX SD 
+http://190.61.102.67:8000/play/a06y
+#EXTINF:0,Claro 
+http://181.209.194.254:8000/play/a0fv/index.m3u8
+#EXTINF:0,Claro Cinema 
+http://181.209.194.254:8000/play/a0hl/index.m3u8
+#EXTINF:0,CLARO FHD 
+http://190.61.102.67:8000/play/a013
+#EXTINF:0,Claro Musica 
+http://181.209.194.254:8000/play/a0jt/index.m3u8
+#EXTINF:0,CLARO SD 
+http://190.61.102.67:8000/play/a03k
+#EXTINF:0,CLARO SD 
+http://190.61.102.67:8000/play/a029
+#EXTINF:0,CLARO SD 
 http://190.61.102.67:8000/play/a06u
-#EXTINF:-1,UNIVISION FHD
-http://190.61.102.67:8000/play/a05d
-#EXTINF:-1,TCS+ SD
+#EXTINF:0,Claro Sports  HD 
+http://181.209.194.254:8000/play/a0kz/index.m3u8
+#EXTINF:0,Claro Sports 2 SD 
+http://181.209.194.254:8000/play/a03w/index.m3u8
+#EXTINF:0,CLARO SPORTS FHD 
+http://190.61.102.67:8000/play/a012
+#EXTINF:0,CLARO SPORTS SD 
+http://190.61.102.67:8000/play/a024
+#EXTINF:0,CLIC FHD 
+http://190.61.102.67:8000/play/a04y
+#EXTINF:0,CNN ESP SD 
+http://190.61.102.67:8000/play/a04c
+#EXTINF:0,CNN Español 
+http://181.209.194.254:8000/play/a0gi/index.m3u8
+#EXTINF:0,CNN ESPAÑOL 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684.ts
+#EXTINF:0,CNN SD 
+http://190.61.102.67:8000/play/a00n
+#EXTINF:0,COMEDY CENTRAL 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/685.ts
+#EXTINF:0,COMEDY CENTRAL FHD 
+http://190.61.102.67:8000/play/a064
+#EXTINF:0,Comedy Central HD 
+http://181.209.194.254:8000/play/a0hy/index.m3u8
+#EXTINF:0,Concert Channel 
+http://181.209.194.254:8000/play/a02r/index.m3u8
+#EXTINF:0,CONCERT SD 
+http://190.61.102.67:8000/play/a06t
+#EXTINF:0,DE PELICULA 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507.ts
+#EXTINF:0,DEPORTES LQ 
+http://190.61.102.67:8000/play/a01k
+#EXTINF:0,DHE FHD 
+http://190.61.102.67:8000/play/a04x
+#EXTINF:0,DHE HD 
+http://181.209.194.254:8000/play/a0gy/index.m3u8
+#EXTINF:0,DHE SD 
+http://190.61.102.67:8000/play/a00y
+#EXTINF:0,DISCOVERY 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511.ts
+#EXTINF:0,DISCOVERY CHANNEL FHD 
+http://190.61.102.67:8000/play/a05a
+#EXTINF:0,Discovery Channel HD 
+http://181.209.194.254:8000/play/a0kn/index.m3u8
+#EXTINF:0,DISCOVERY FAM SPA 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510.ts
+#EXTINF:0,DISCOVERY H&H FHD 
+http://190.61.102.67:8000/play/a062
+#EXTINF:0,DISCOVERY H&H SD 
+http://190.61.102.67:8000/play/a06o
+#EXTINF:0,DISCOVERY ID FHD 
+http://190.61.102.67:8000/play/a05e
+#EXTINF:0,Discovery ID HD 
+http://181.209.194.254:8000/play/a0ks/index.m3u8
+#EXTINF:0,DISCOVERY ID SD 
+http://190.61.102.67:8000/play/a06p
+#EXTINF:0,Discovery Kids 
+http://181.209.194.254:8000/play/a03l/index.m3u8
+#EXTINF:0,DISCOVERY KIDS FHD 
+http://190.61.102.67:8000/play/a00r
+#EXTINF:0,DISCOVERY KIDS SD 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687.ts
+#EXTINF:0,DISCOVERY KIDS SD 
+http://190.61.102.67:8000/play/a06j
+#EXTINF:0,DISCOVERY SCIENCE 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770.ts
+#EXTINF:0,DISCOVERY SCIENCE SD 
+http://190.61.102.67:8000/play/a00e
+#EXTINF:0,DISCOVERY THEATER FHD 
+http://190.61.102.67:8000/play/a061
+#EXTINF:0,DISCOVERY THEATHER HD 
+http://181.209.194.254:8000/play/a0hv/index.m3u8
+#EXTINF:0,Discovery Turbo 
+http://181.209.194.254:8000/play/a0ia/index.m3u8
+#EXTINF:0,DISCOVERY TURBO SD 
+http://190.61.102.67:8000/play/a06n
+#EXTINF:0,DISCOVERY WORLD FHD 
+http://190.61.102.67:8000/play/a05b
+#EXTINF:0,Discovery World HD 
+http://181.209.194.254:8000/play/a0kp/index.m3u8
+#EXTINF:0,Disney 
+http://181.209.194.254:8000/play/a0i8/index.m3u8
+#EXTINF:0,DISNEY CHANNEL 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688.ts
+#EXTINF:0,DISNEY CHANNEL SD 
+http://190.61.102.67:8000/play/a06l
+#EXTINF:0,Disney JR 
+http://181.209.194.254:8000/play/a0g1/index.m3u8
+#EXTINF:0,DISNEY JR 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689.ts
+#EXTINF:0,DISNEY JR SD 
+http://190.61.102.67:8000/play/a03v
+#EXTINF:0,E! ENTERTAINMENT 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692.ts
+#EXTINF:0,E! Entertairment HD 
+http://181.209.194.254:8000/play/a0gr/index.m3u8
+#EXTINF:0,E! FHD 
+http://190.61.102.67:8000/play/a04p
+#EXTINF:0,ENLACE 
+http://181.209.194.254:8000/play/a0gj/index.m3u8
+#EXTINF:0,ENLACE SD 
+http://190.61.102.67:8000/play/a04f
+#EXTINF:0,ESPN+ 
+http://181.209.194.254:8000/play/a0gl/index.m3u8
+#EXTINF:0,ESPN 2 HD 
+http://181.209.194.254:8000/play/a0ki/index.m3u8
+#EXTINF:0,ESPN 2 HD 
+MX http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694.ts
+#EXTINF:0,ESPN 3 HD 
+http://181.209.194.254:8000/play/a0kh/index.m3u8
+#EXTINF:0,ESPN 3 MX 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695.ts
+#EXTINF:0,ESPN 4 HD 
+http://181.209.194.254:8000/play/a0ix/index.m3u8
+#EXTINF:0,ESPN DEPORTES AR 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124.ts
+#EXTINF:0,ESPN EXTRA HD 
+http://190.61.102.67:8000/play/a04i
+#EXTINF:0,ESPN HD 
+http://181.209.194.254:8000/play/a0kg/index.m3u8
+#EXTINF:0,ESPN HD 
+http://190.61.102.67:8000/play/a053
+#EXTINF:0,ESPN MX HD 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696.ts
+#EXTINF:0,ESPN2 HD 
+http://190.61.102.67:8000/play/a055
+#EXTINF:0,ESPN3 HD 
+http://190.61.102.67:8000/play/a054
+#EXTINF:0,ESPN3 SD 
+http://190.61.102.67:8000/play/a025
+#EXTINF:0,ESPN4 FHD 
+http://190.61.102.67:8000/play/a079
+#EXTINF:0,ESPN4 SD 
+http://190.61.102.67:8000/play/a06r
+#EXTINF:0,ESTRELLATV 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697.ts
+#EXTINF:0,ESTRENOS SD 
+http://190.61.102.67:8000/play/a07g
+#EXTINF:0,EURO Channel 
+http://181.209.194.254:8000/play/a00x/index.m3u8
+#EXTINF:0,EURO CHANNEL SD 
+http://190.61.102.67:8000/play/a020
+#EXTINF:0,EUROPA EUROPA FHD  
+http://190.61.102.67:8000/play/a04v
+#EXTINF:0,Europa HD 
+http://181.209.194.254:8000/play/a00u/index.m3u8
+#EXTINF:0,EWTN SD 
+http://190.61.102.67:8000/play/a04g
+#EXTINF:0,Exa TV 
+http://181.209.194.254:8000/play/a0hk/index.m3u8
+#EXTINF:0,Film & arts HD 
+http://181.209.194.254:8000/play/a0gs/index.m3u8
+#EXTINF:0,FILMS & ARTS FHD 
+http://190.61.102.67:8000/play/a04q
+#EXTINF:0,FILMS & ARTS SD 
+http://190.61.102.67:8000/play/a00x
+#EXTINF:0,FORMULA 1 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698.ts
+#EXTINF:0,FORO TV 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/699.ts
+#EXTINF:0,FOS SPORTS 3 FHD 
+http://190.61.102.67:8000/play/a056
+#EXTINF:0,FOX SPORTS 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706.ts
+#EXTINF:0,FOX SPORTS 2 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707.ts
+#EXTINF:0,FOX SPORTS 2 
+FHD http://190.61.102.67:8000/play/a05z
+#EXTINF:0,FOX SPORTS 2 
+HD http://181.209.194.254:8000/play/a0ht/index.m3u8
+#EXTINF:0,FOX SPORTS 2 
+SD http://190.61.102.67:8000/play/a026
+#EXTINF:0,FOX SPORTS 3 
+HD http://181.209.194.254:8000/play/a0kj/index.m3u8
+#EXTINF:0,FOX SPORTS 3 
+SD http://190.61.102.67:8000/play/a046
+#EXTINF:0,FRANCE24 SD 
+http://190.61.102.67:8000/play/a04e
+#EXTINF:0,FUTV FHD 
+http://190.61.102.67:8000/play/a052
+#EXTINF:0,FUTV SD 
+http://190.61.102.67:8000/play/a06e
+#EXTINF:0,FX 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708.ts
+#EXTINF:0,FX FHD 
+http://190.61.102.67:8000/play/a04u
+#EXTINF:0,FX HD 
+http://181.209.194.254:8000/play/a0gw/index.m3u8
+#EXTINF:0,FX Movies HD 
+http://181.209.194.254:8000/play/a0gx/index.m3u8
+#EXTINF:0,FX SD 
+http://190.61.102.67:8000/play/a01y
+#EXTINF:0,GALAVISION 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556.ts
+#EXTINF:0,GLITZ 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123.ts
+#EXTINF:0,Golden 
+http://181.209.194.254:8000/play/a0jv/index.m3u8
+#EXTINF:0,GOLDEN PREMIERE 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709.ts
+#EXTINF:0,GOLDEN SD 
+http://190.61.102.67:8000/play/a02b
+#EXTINF:0,Golf Channel HD 
+http://181.209.194.254:8000/play/a0h1/index.m3u8
+#EXTINF:0,GOLF FHD 
+http://190.61.102.67:8000/play/a050
+#EXTINF:0,GOLF SD 
+http://190.61.102.67:8000/play/a00j
+#EXTINF:0,GOLTV 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559.ts
+#EXTINF:0,GOURMET 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186.ts
+#EXTINF:0,GOURMET SD 
+http://190.61.102.67:8000/play/a022
+#EXTINF:0,HBO 2 FHD 
+http://190.61.102.67:8000/play/a016
+#EXTINF:0,HBO FAMILY FHD 
+http://190.61.102.67:8000/play/a018
+#EXTINF:0,HBO Family HD 
+http://181.209.194.254:8000/play/a0l5/index.m3u8
+#EXTINF:0,HBO FHD 
+http://190.61.102.67:8000/play/a015
+#EXTINF:0,HBO HD 
+http://181.209.194.254:8000/play/a0l2/index.m3u8
+#EXTINF:0,HBO Plus HD 
+http://181.209.194.254:8000/play/a0l4/index.m3u8
+#EXTINF:0,HBO XTREME FHD 
+http://190.61.102.67:8000/play/a019
+#EXTINF:0,HBO XTREME HD 
+http://181.209.194.254:8000/play/a0l6/index.m3u8
+#EXTINF:0,HBO+ FHD 
+http://190.61.102.67:8000/play/a017
+#EXTINF:0,HBO2 HD 
+http://181.209.194.254:8000/play/a00c/index.m3u8
+#EXTINF:0,HGTV SD 
+http://190.61.102.67:8000/play/a00d
+#EXTINF:0,HISTORY 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711.ts
+#EXTINF:0,History 2 
+http://181.209.194.254:8000/play/a0jp/index.m3u8
+#EXTINF:0,HISTORY 2 SD 
+http://190.61.102.67:8000/play/a021
+#EXTINF:0,History Channel HD 
+http://181.209.194.254:8000/play/a0gk/index.m3u8
+#EXTINF:0,HISTORY FHD 
+http://190.61.102.67:8000/play/a04h
+#EXTINF:0,HOLA TV FHD 
+http://190.61.102.67:8000/play/a063
+#EXTINF:0,HOLA TV SD 
+http://190.61.102.67:8000/play/a00f
+#EXTINF:0,HOLA! TV HD 
+http://181.209.194.254:8000/play/a0hx/index.m3u8
+#EXTINF:0,Home & Health HD 
+http://181.209.194.254:8000/play/a0hw/index.m3u8
+#EXTINF:0,HTV SD 
+http://190.61.102.67:8000/play/a02a
+#EXTINF:0,I SAT SD 
+http://190.61.102.67:8000/play/a06v
+#EXTINF:0,IMAGEN NOTICIAS SD 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712.ts
+#EXTINF:0,INVESTIGATION DISCOVERY 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735.ts
+#EXTINF:0,KIDS SD 
+http://190.61.102.67:8000/play/a03x
+#EXTINF:0,LA LIGA HD 
+http://190.61.102.67:8000/play/a07h
+#EXTINF:0,La voz de Maria 
+http://181.209.194.254:8000/play/a0id/index.m3u8
+#EXTINF:0,LA VOZ DE MARIA SD 
+http://190.61.102.67:8000/play/a06q
+#EXTINF:0,LAS ESTRELLAS HD 
+http://190.61.102.67:8000/play/las3
+#EXTINF:0,LAS SD 
+http://190.61.102.67:8000/play/a027
+#EXTINF:0,Latin America Sport 
+http://181.209.194.254:8000/play/a03x/index.m3u8
+#EXTINF:0,Latin America Sport 
+http://181.209.194.254:8000/play/a03j/index.m3u8
+#EXTINF:0,LIFE TIME 
+http://181.209.194.254:8000/play/a0gb/index.m3u8
+#EXTINF:0,LIFETIME SD 
+http://190.61.102.67:8000/play/a045
+#EXTINF:0,LOS SIMPSONS 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713.ts
+#EXTINF:0,MAS CHIC SD 
+http://190.61.102.67:8000/play/a00a
+#EXTINF:0,MORBIDO 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182.ts
+#EXTINF:0,MTV 
+http://181.209.194.254:8000/play/a0if/index.m3u8
+#EXTINF:0,MTV 00s 
+FHD http://190.61.102.67:8000/play/a066
+#EXTINF:0,MTV 00s 
+HD http://181.209.194.254:8000/play/a0i0/index.m3u8
+#EXTINF:0,MTV 80s 
+http://181.209.194.254:8000/play/a0ge/index.m3u8
+#EXTINF:0,MTV 80s 
+SD http://190.61.102.67:8000/play/a048
+#EXTINF:0,MTV FHD 
+http://190.61.102.67:8000/play/a04j
+#EXTINF:0,MTV HD 
+http://181.209.194.254:8000/play/a0gm/index.m3u8
+#EXTINF:0,MTV Hits 
+http://181.209.194.254:8000/play/a0gd/index.m3u8
+#EXTINF:0,MTV HITS SD 
+http://190.61.102.67:8000/play/a047
+#EXTINF:0,MTV LIVE 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737.ts
+#EXTINF:0,MTV LIVE FHD 
+http://190.61.102.67:8000/play/a065
+#EXTINF:0,MTV SD 
+http://190.61.102.67:8000/play/a06s
+#EXTINF:0,MTV SIM HD 
+http://181.209.194.254:8000/play/a0hz/index.m3u8
+#EXTINF:0,MULTI PREMIERE SD 
+http://190.61.102.67:8000/play/a06w
+#EXTINF:0,Multipremier 
+http://181.209.194.254:8000/play/a0ij/index.m3u8
+#EXTINF:0,NAT GEO FHD 
+http://190.61.102.67:8000/play/a057
+#EXTINF:0,Nat Geo HD 
+http://181.209.194.254:8000/play/a0kk/index.m3u8
+#EXTINF:0,Nat Geo Kids 
+http://181.209.194.254:8000/play/a0jl/index.m3u8
+#EXTINF:0,NAT GEO SD 
+http://190.61.102.67:8000/play/a044
+#EXTINF:0,NATGEO MUNDO HD 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598.ts
+#EXTINF:0,NATGEO MX 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716.ts
+#EXTINF:0,Nick 2 HD 
+http://181.209.194.254:8000/play/a03f/index.m3u8
+#EXTINF:0,Nick Jr 
+http://181.209.194.254:8000/play/a0fz/index.m3u8
+#EXTINF:0,NICK JR 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717.ts
+#EXTINF:0,NICK JR SD 
+http://190.61.102.67:8000/play/a03t
+#EXTINF:0,NICKELODEON 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718.ts
+#EXTINF:0,NICKELODEON FHD 
+http://190.61.102.67:8000/play/a05y
+#EXTINF:0,Nickelodeon HD 
+http://181.209.194.254:8000/play/a0hs/index.m3u8
+#EXTINF:0,NICKELODEON SD 
+http://190.61.102.67:8000/play/a06k
+#EXTINF:0,NICKELODEON TEEN FHD 
+http://190.61.102.67:8000/play/a04l
+#EXTINF:0,NUEVE 9 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719.ts
+#EXTINF:0,ONCE TV 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/720.ts
+#EXTINF:0,Paramount HD 
+http://181.209.194.254:8000/play/a0kl/index.m3u8
+#EXTINF:0,PARAMOUNT SD 
+http://190.61.102.67:8000/play/a00z
+#EXTINF:0,PASIONES FHD 
+http://190.61.102.67:8000/play/a05c
+#EXTINF:0,Pasiones HD 
+http://181.209.194.254:8000/play/a0kq/index.m3u8
+#EXTINF:0,RCN Novelas 
+http://181.209.194.254:8000/play/a0jn/index.m3u8
+#EXTINF:0,RCN NOVELAS SD 
+http://190.61.102.67:8000/play/a01z
+#EXTINF:0,RHEMA TV 
+http://181.209.194.254:8000/play/a03t/index.m3u8
+#EXTINF:0,RHEMA TV 
+http://181.209.194.254:8000/play/a0iw/index.m3u8
+#EXTINF:0,RHEMA TV SD 
+http://190.61.102.67:8000/play/a078
+#EXTINF:0,RTVD LQ 
+http://190.61.102.67:8000/play/a06d
+#EXTINF:0,Sembrador 
+http://181.209.194.254:8000/play/a0k0/index.m3u8
+#EXTINF:0,SEMBRADOR SD 
+http://190.61.102.67:8000/play/a02g
+#EXTINF:0,SEMILLITAS 
+http://181.209.194.254:8000/play/a0g3/index.m3u8
+#EXTINF:0,SIN LIMITES SD 
+http://190.61.102.67:8000/play/a028
+#EXTINF:0,SONY HD 
+http://181.209.194.254:8000/play/a0hp/index.m3u8
+#EXTINF:0,SONY MOVIES FHD 
+http://190.61.102.67:8000/play/a04w
+#EXTINF:0,SONY MOVIES HD 
+http://181.209.194.254:8000/play/a03s/index.m3u8
+#EXTINF:0,SPACE FHD 
+http://190.61.102.67:8000/play/a07b
+#EXTINF:0,SPACE HD 
+http://181.209.194.254:8000/play/a0iz/index.m3u8
+#EXTINF:0,SPACE SD 
+http://190.61.102.67:8000/play/a041
+#EXTINF:0,STAR CHANNEL HD 
+http://181.209.194.254:8000/play/a0hn/index.m3u8
+#EXTINF:0,STAR CHANNEL SD 
+http://190.61.102.67:8000/play/a06m
+#EXTINF:0,STAR LIFE 
+http://181.209.194.254:8000/play/a0g4/index.m3u8
+#EXTINF:0,STAR TVE FHD 
+http://190.61.102.67:8000/play/a04z
+#EXTINF:0,Star TVE HD 
+http://181.209.194.254:8000/play/a0h0/index.m3u8
+#EXTINF:0,STUDIO UNIVERSAL FHD 
+http://190.61.102.67:8000/play/a04m
+#EXTINF:0,Studio Universal HD 
+http://181.209.194.254:8000/play/a0go/index.m3u8
+#EXTINF:0,STUDIO UNIVERSAL SD 
+http://190.61.102.67:8000/play/a06z
+#EXTINF:0,SUN SD 
+http://190.61.102.67:8000/play/a023
+#EXTINF:0,TBS 
+http://181.209.194.254:8000/play/a0g9/index.m3u8
+#EXTINF:0,TBS 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758.ts
+#EXTINF:0,TBS SD 
+http://190.61.102.67:8000/play/a043
+#EXTINF:0,TCM 
+http://181.209.194.254:8000/play/a0jw/index.m3u8
+#EXTINF:0,TCM SD 
+http://190.61.102.67:8000/play/a02c
+#EXTINF:0,TCS+ SD 
 http://190.61.102.67:8000/play/a01v
-#EXTINF:-1,ZOO MOO SD
+#EXTINF:0,TD+ FHD 
+http://190.61.102.67:8000/play/a00p
+#EXTINF:0,TD+2 FHD 
+http://190.61.102.67:8000/play/a00q
+#EXTINF:0,TELE SISTEMA SD 
+http://190.61.102.67:8000/play/a03o
+#EXTINF:0,TELEHIT 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/653.ts
+#EXTINF:0,TELEHIT MUSICA 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/641.ts
+#EXTINF:0,TELEMUNDO 44 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654.ts
+#EXTINF:0,TELEMUNDO 48 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655.ts
+#EXTINF:0,Telemundo HD 
+http://181.209.194.254:8000/play/a0gv/index.m3u8
+#EXTINF:0,TELEMUNDO INTERNACIONAL FHD 
+http://190.61.102.67:8000/play/a04t
+#EXTINF:0,TELEMUNDO INTERNACIONAL SD 
+http://190.61.102.67:8000/play/a03z
+#EXTINF:0,TELEMUNDO LA 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656.ts
+#EXTINF:0,TELEMUNDO MIAMI 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
+#EXTINF:0,TELEMUNDO NEW YORK 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658.ts
+#EXTINF:0,TELENOVELAS 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/723.ts
+#EXTINF:0,TELENOVELAS SD 
+http://190.61.102.67:8000/play/a07k
+#EXTINF:0,TIGO SPORTS FHD 
+http://190.61.102.67:8000/play/a05x
+#EXTINF:0,Tigo Sports HD 
+http://181.209.194.254:8000/play/a02v/index.m3u8
+#EXTINF:0,TIIN 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759.ts
+#EXTINF:0,TLC 
+http://181.209.194.254:8000/play/a0hh/index.m3u8
+#EXTINF:0,TLC 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724.ts
+#EXTINF:0,TNT FHD 
+http://190.61.102.67:8000/play/a060
+#EXTINF:0,TNT HD 
+http://181.209.194.254:8000/play/a0hu/index.m3u8
+#EXTINF:0,TNT SD 
+http://190.61.102.67:8000/play/a04a
+#EXTINF:0,TNT SERIES FHD 
+http://190.61.102.67:8000/play/a059
+#EXTINF:0,TNT Series HD 
+http://181.209.194.254:8000/play/a0km/index.m3u8
+#EXTINF:0,TNT SERIES SD 
+http://190.61.102.67:8000/play/a042
+#EXTINF:0,TODO NOTICIAS SD 
+http://190.61.102.67:8000/play/a07f
+#EXTINF:0,Tooncast 
+http://181.209.194.254:8000/play/a03k/index.m3u8
+#EXTINF:0,TOONCAST 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725.ts
+#EXTINF:0,TRU TV SD 
+http://190.61.102.67:8000/play/a03y
+#EXTINF:0,TRUTV 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760.ts
+#EXTINF:0,TUDN 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722.ts
+#EXTINF:0,TUDN HD 
+http://190.61.102.67:8000/play/a07e
+#EXTINF:0,TUDN test 
+http://181.209.194.254:8000/play/a041/index.m3u8
+#EXTINF:0,TVC DEPORTES 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761.ts
+#EXTINF:0,TVN SD 
+http://190.61.102.67:8000/play/a00c
+#EXTINF:0,UNICABLE 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727.ts
+#EXTINF:0,UNIMAS HD 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663.ts
+#EXTINF:0,Universal 
+http://181.209.194.254:8000/play/a0ih/index.m3u8
+#EXTINF:0,UNIVERSAL CINEMA 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703.ts
+#EXTINF:0,UNIVERSAL CINEMA FHD 
+http://190.61.102.67:8000/play/a05f
+#EXTINF:0,UNIVERSAL CINEMA HD 
+http://181.209.194.254:8000/play/a0kt/index.m3u8
+#EXTINF:0,UNIVERSAL COMEDY FHD 
+http://190.61.102.67:8000/play/a06b
+#EXTINF:0,UNIVERSAL COMEDY HD 
+http://181.209.194.254:8000/play/a0i5/index.m3u8
+#EXTINF:0,UNIVERSAL CRIME 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701.ts
+#EXTINF:0,UNIVERSAL CRIME FHD 
+http://190.61.102.67:8000/play/a06a
+#EXTINF:0,UNIVERSAL CRIME HD 
+http://181.209.194.254:8000/play/a0i4/index.m3u8
+#EXTINF:0,UNIVERSAL PREMIERE FHD 
+http://190.61.102.67:8000/play/a067
+#EXTINF:0,UNIVERSAL PREMIERE FHD 
+http://190.61.102.67:8000/play/a068
+#EXTINF:0,UNIVERSAL PREMIERE HD 
+http://181.209.194.254:8000/play/a0i1/index.m3u8
+#EXTINF:0,UNIVERSAL PREMIERE O HD 
+http://181.209.194.254:8000/play/a0i2/index.m3u8
+#EXTINF:0,UNIVERSAL REALITY 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700.ts
+#EXTINF:0,UNIVERSAL REALITY FHD 
+http://190.61.102.67:8000/play/a069
+#EXTINF:0,UNIVERSAL REALITY HD 
+http://181.209.194.254:8000/play/a0i3/index.m3u8
+#EXTINF:0,UNIVERSO 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665.ts
+#EXTINF:0,UNIVISION FHD 
+http://190.61.102.67:8000/play/a05d
+#EXTINF:0,Univision HD 
+http://181.209.194.254:8000/play/a0kr/index.m3u8
+#EXTINF:0,UNIVISION SPORTS UDN 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666.ts
+#EXTINF:0,UNIVISION USA HD 
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668.ts
+#EXTINF:0,WARNER HD 
+http://181.209.194.254:8000/play/a0ho/index.m3u8
+#EXTINF:0,ZOO MOO SD 
 http://190.61.102.67:8000/play/a009
