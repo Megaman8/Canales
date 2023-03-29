@@ -31,8 +31,6 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
 #EXTINF:0, CANAL 5
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=55&f=.m3u8
-#EXTINF:0,  Las Estrellas
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
 #EXTINF:160, LAS ESTRELLAS
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=52&f=.m3u8
 #EXTINF:160, LAS ESTRELLAS
@@ -57,32 +55,14 @@ https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=113&f=.
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:160, IMAGEN TV
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
-#EXTINF:0, Telemundo CA
-http://regioplay.xyz/php/SR_REGIO_823023_/tmca.php?f=.m3u8
-#EXTINF:0, Telemundo LA
-https://v-la.mybtv.net/live/267.m3u8
-#EXTINF:0, Telemundo NY
-https://regioplay.xyz/php/SR_REGIO_823023_/telemundo.php?token=SrRegio&c=telemundoNY&f=.m3u8
-#EXTINF:0, TELEMUNDO PUERTO RICO
-https://regioplay.xyz/php/SR_REGIO_823023_/playpc.php?c=l1?ch=telemundo_pr
 #EXTINF:0, TUDN
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
-#EXTINF:0, TUDN US
-https://regioplay.xyz/php/SR_REGIO_823023_/playpir.php?c=univision?ch=tudn
-#EXTINF:0,  Love Nature
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=390&pid=390&token=SrRegio&f=.m3u8
-#EXTINF:60,  Adrenalina Sport
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
 #EXTINF:0,  Afizzionados
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=348&pid=348&token=SrRegio&f=.m3u8
 #EXTINF:0,  Atv+
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=258&pid=258&token=SrRegio&f=.m3u8
-#EXTINF:0,  Bandamax
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
 #EXTINF:0,  Bein Sports Xtra
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
-#EXTINF:0,  Bitme
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=401&pid=401&token=SrRegio&f=.m3u8
 #EXTINF:0,  Cine 1
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
 #EXTINF:0,  Cine 2
@@ -91,32 +71,14 @@ http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=308&pid=308&token=SrRegio&f=
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
 #EXTINF:0,  Cine Del Ayer
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=429&pid=429&token=SrRegio&f=.m3u8
-#EXTINF:0,  Distrito Comedia
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
-#EXTINF:0,  Dpeliculas
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
-#EXTINF:0,  Dpeliculas +
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
 #EXTINF:0,  Foro Tv
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
 #EXTINF:0,  Fun Videos
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
-#EXTINF:0,  Golden Edge
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=407&pid=407&token=SrRegio&f=.m3u8
 #EXTINF:0,  Golden Edge Sd
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
-#EXTINF:0,  Golden Plus
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
-#EXTINF:0,  Golden South
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
-#EXTINF:0,  Golden South Sd
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
 #EXTINF:0,  Kids
 http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
-#EXTINF:60,  Local View
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=402&pid=402&token=SrRegio&f=.m3u8
-#EXTINF:60,  Local View 2
-http://regioplay.xyz/php/SR_REGIO_823023_/vix.php?c=403&pid=403&token=SrRegio&f=.m3u8
 #EXTINF:0, 34.1
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=44&f=.m3u8
 #EXTINF:0, A MAS + MTY
@@ -133,11 +95,9 @@ https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=2113&f=
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0, ADRENALINA SPORTS
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=1799&f=.m3u8
-#EXTINF:0, AL JAZEERA
-https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=192&f=.m3u8
 #EXTINF:0, AMC
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
-#EXTINF:0, AND40
+#EXTINF:0, ADN40
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=2&f=.m3u8
 #EXTINF:0, ANIMAL PLANET
 https://regioplay.xyz/php/SR_REGIO_823023_/tpnuevo02.php?tokennn=Regio&c=2378&f=.m3u8
