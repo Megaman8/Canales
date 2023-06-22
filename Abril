@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos | Acceso Total" tvg-logo="https://www.lacasadelosfamososmexico.tv/img/logos/LCDLF_Logo.png" group-title="PROGRAMAS ESPECIALES",La Casa de los Famosos | Acceso Total
+http://live.reystream.us:8080/karen34xt/834vsxk5x/117967
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos | 24-7" tvg-logo="https://www.lacasadelosfamososmexico.tv/img/logos/LCDLF_Logo.png" group-title="PROGRAMAS ESPECIALES",La Casa de los Famosos | 24-7
+http://live.reystream.us:8080/karen34xt/834vsxk5x/117972
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos | Revive las Galas" tvg-logo="http://live.detodotvplay.com:8080/images/364ca064f43711ab7d4f618baadb86f6.png" group-title="PROGRAMAS ESPECIALES",La Casa de los Famosos | Revive las Galas
+http://live.reystream.us:8080/karen34xt/834vsxk5x/117973
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos | Cocina" tvg-logo="http://live.detodotvplay.com:8080/images/364ca064f43711ab7d4f618baadb86f6.png" group-title="PROGRAMAS ESPECIALES",La Casa de los Famosos | Cocina
+http://live.reystream.us:8080/karen34xt/834vsxk5x/117974
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos | Sala" tvg-logo="http://live.detodotvplay.com:8080/images/364ca064f43711ab7d4f618baadb86f6.png" group-title="PROGRAMAS ESPECIALES",La Casa de los Famosos | Sala
+http://live.reystream.us:8080/karen34xt/834vsxk5x/117975
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos | Dormitorio Cielo" tvg-logo="https://www.lacasadelosfamososmexico.tv/img/logos/LCDLF_Logo.png" group-title="PROGRAMAS ESPECIALES",La Casa de los Famosos | Dormitorio Cielo
+http://live.reystream.us:8080/karen34xt/834vsxk5x/119279
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos | Dormitorio Infierno" tvg-logo="https://www.lacasadelosfamososmexico.tv/img/logos/LCDLF_Logo.png" group-title="PROGRAMAS ESPECIALES",La Casa de los Famosos | Dormitorio Infierno
+http://live.reystream.us:8080/karen34xt/834vsxk5x/119280
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Famosos | Baño" tvg-logo="https://www.lacasadelosfamososmexico.tv/img/logos/LCDLF_Logo.png" group-title="PROGRAMAS ESPECIALES",La Casa de los Famosos | Baño
+http://live.reystream.us:8080/karen34xt/834vsxk5x/119281
 #EXTINF:-1 tvg-id="" tvg-name=" LAT | Universal Crime Este HD" tvg-logo="http://live.detodotvplay.com:8080/images/0be5670a398409e659f34156af20868a.png" group-title="PELICULAS", LAT | Universal Crime Este HD
 http://live.reystream.us:8080/karen34xt/834vsxk5x/68250
 #EXTINF:-1 tvg-id="" tvg-name=" USA | VIDEO ROLA" tvg-logo="https://logos.xbots.com.mx/41025.png" group-title="MUSICA", USA | VIDEO ROLA
